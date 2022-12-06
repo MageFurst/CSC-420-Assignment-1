@@ -1,4 +1,4 @@
-# CSC-420-Assingment-1
+# CSC-420-Assignment-1
 This is a very simple application to get you started with Swing. It requires placing two components in a frame and making one react to changes in the other. It also requires you to know how to load and display images.
 
 Build a Java Swing application that allows users to select a European country's name out of a list, and then displays its flag in another panel.
